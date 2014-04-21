@@ -108,6 +108,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pacman\Fantome_rand.cs" />
+    <Compile Include="Pacman\FantomeIA.cs" />
     <Compile Include="Menu\Option.cs" />
     <Compile Include="Pacman\Fantome.cs" />
     <Compile Include="Menu\Langue.cs" />
