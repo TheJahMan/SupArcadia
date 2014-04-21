@@ -78,27 +78,27 @@ namespace Arcadia.Space_Invaders
         {
 
             time += gametime.ElapsedGameTime.TotalMilliseconds;
-            if (time > 1000 && encrage_x_enn == 210 && encrage_y_enn == 100)
+            if (time > 1000 && (encrage_x_enn == 210 ||encrage_x_enn == 240 ||encrage_x_enn == 270 ||encrage_x_enn == 300 || encrage_x_enn == 330 ||encrage_x_enn == 360 || encrage_x_enn == 390 || encrage_x_enn == 420 || encrage_x_enn == 450 || encrage_x_enn == 480)  && encrage_y_enn == 100)
             {
-                encrage_x_enn = encrage_x_enn + 28;
+                encrage_x_enn = encrage_x_enn + 30;
                 time = 0;
             }
             else
-                if (time > 1000 && encrage_x_enn == 238 && encrage_y_enn == 100)
+                if (time > 1000 && encrage_x_enn == 510 && encrage_y_enn == 100)
                 {
-                    encrage_y_enn = encrage_y_enn + 28;
+                    encrage_y_enn = encrage_y_enn + 30;
                     time = 0;
                 }
                 else
-                    if (time > 1000 && encrage_x_enn == 238 && encrage_y_enn == 128)
+                    if (time > 1000 && (encrage_x_enn == 240 ||encrage_x_enn == 270 ||encrage_x_enn == 300 || encrage_x_enn == 330 || encrage_x_enn == 360 || encrage_x_enn == 390 || encrage_x_enn == 420 || encrage_x_enn == 450 || encrage_x_enn == 480 || encrage_x_enn == 510) && encrage_y_enn == 130)
                     {
-                        encrage_x_enn = encrage_x_enn - 28;
+                        encrage_x_enn = encrage_x_enn - 30;
                         time = 0; 
                     }
                     else
-                        if (time > 1000 && encrage_x_enn == 210 && encrage_y_enn == 128)
+                        if (time > 1000 && encrage_x_enn == 210 && encrage_y_enn == 130)
                         {
-                            encrage_y_enn = encrage_y_enn - 28;
+                            encrage_y_enn = encrage_y_enn - 30;
                             time = 0;
                         }
 
