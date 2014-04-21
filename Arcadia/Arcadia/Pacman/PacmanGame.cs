@@ -59,10 +59,10 @@ namespace Arcadia
         SpriteFont sprite_font;
         
         // declaration fantomes
-        Fantome fantome1 = new Fantome();
-        Fantome fantome2 = new Fantome();
-        Fantome fantome3 = new Fantome();
-        Fantome fantome4 = new Fantome();
+        FantomeIA fantome1 = new FantomeIA();
+        Fantome_rand fantome2 = new Fantome_rand();
+        Fantome_rand fantome3 = new Fantome_rand();
+        Fantome_rand fantome4 = new Fantome_rand();
         
         //  booléen qui verifie si retour menu apres mort pacman 
         public bool check_retour_menu;
@@ -176,7 +176,7 @@ namespace Arcadia
                 if (pacman.IsAlive(fantome1, ref score) || pacman.IsAlive(fantome2, ref score) || pacman.IsAlive(fantome3, ref score) || pacman.IsAlive(fantome4, ref score)) pacman_state = PacmanState.death;
 
                 pacman.Update(gameTime, keyboardState, ref tab_boulette, ref score, ref nb_boulette);
-                fantome1.Update(ref tab_boulette, map,level);
+                fantome1.Update(ref tab_boulette, map,level,pacman);
                 fantome2.Update(ref tab_boulette, map,level);
                 fantome3.Update(ref tab_boulette, map,level);
                 fantome4.Update(ref tab_boulette, map,level);
