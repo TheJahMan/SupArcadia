@@ -7,13 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\Arcadia Logo.xnb</Output>
       <Time>2014-04-18T16:42:32.57+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\Arcadia Logo.xnb</Output>
-      <Time>2014-04-21T17:22:25.378934+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>mur_c.png</Source>
@@ -21,13 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_c.xnb</Output>
       <Time>2014-04-18T16:42:32.777+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_c.xnb</Output>
-      <Time>2014-04-21T17:22:25.8869631+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>mur_h.png</Source>
@@ -35,13 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_h.xnb</Output>
       <Time>2014-04-18T16:42:32.778+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_h.xnb</Output>
-      <Time>2014-04-21T17:22:25.8889632+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>mur_v.png</Source>
@@ -49,13 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_v.xnb</Output>
       <Time>2014-04-18T16:42:32.781+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\mur_v.xnb</Output>
-      <Time>2014-04-21T17:22:25.8909633+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\boulettejaune.png</Source>
@@ -63,13 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\boulettejaune.xnb</Output>
       <Time>2014-04-18T16:42:32.581+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\boulettejaune.xnb</Output>
-      <Time>2014-04-21T17:22:25.4019353+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\bouton rejouer.png</Source>
@@ -77,13 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\bouton rejouer.xnb</Output>
       <Time>2014-04-18T16:42:32.583+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\bouton rejouer.xnb</Output>
-      <Time>2014-04-21T17:22:25.4049355+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Menu\Bouton_exit.bmp</Source>
@@ -91,13 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\Bouton_exit.xnb</Output>
       <Time>2014-04-18T16:42:32.573+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\Bouton_exit.xnb</Output>
-      <Time>2014-04-21T17:22:25.3859344+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Menu\bouton_option.bmp</Source>
@@ -105,13 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\bouton_option.xnb</Output>
       <Time>2014-04-18T16:42:32.576+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\bouton_option.xnb</Output>
-      <Time>2014-04-21T17:22:25.3929348+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Menu\bouton_start.bmp</Source>
@@ -119,13 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\bouton_start.xnb</Output>
       <Time>2014-04-18T16:42:32.579+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Menu\bouton_start.xnb</Output>
-      <Time>2014-04-21T17:22:25.3999352+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\fantome.png</Source>
@@ -133,13 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome.xnb</Output>
       <Time>2014-04-18T16:42:32.59+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome.xnb</Output>
-      <Time>2014-04-21T17:22:25.4109359+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\image_inter_pacman.png</Source>
@@ -147,13 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\image_inter_pacman.xnb</Output>
       <Time>2014-04-18T16:42:32.597+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\image_inter_pacman.xnb</Output>
-      <Time>2014-04-21T17:22:25.4189363+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\map1.png</Source>
@@ -161,13 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\map1.xnb</Output>
       <Time>2014-04-18T16:42:32.599+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\map1.xnb</Output>
-      <Time>2014-04-21T17:22:25.4209364+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\map2.png</Source>
@@ -175,13 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\map2.xnb</Output>
       <Time>2014-04-18T16:42:32.601+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\map2.xnb</Output>
-      <Time>2014-04-21T17:22:25.4229365+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman.png</Source>
@@ -189,13 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman.xnb</Output>
       <Time>2014-04-18T16:42:32.602+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman.xnb</Output>
-      <Time>2014-04-21T17:22:25.4239366+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman2_d.png</Source>
@@ -203,13 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_d.xnb</Output>
       <Time>2014-04-18T16:42:32.604+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_d.xnb</Output>
-      <Time>2014-04-21T17:22:25.4249367+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman2_l.png</Source>
@@ -217,13 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_l.xnb</Output>
       <Time>2014-04-18T16:42:32.605+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_l.xnb</Output>
-      <Time>2014-04-21T17:22:25.4259367+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman2_r.png</Source>
@@ -231,13 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_r.xnb</Output>
       <Time>2014-04-18T16:42:32.606+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_r.xnb</Output>
-      <Time>2014-04-21T17:22:25.4279368+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman2_u.png</Source>
@@ -245,13 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_u.xnb</Output>
       <Time>2014-04-18T16:42:32.608+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman2_u.xnb</Output>
-      <Time>2014-04-21T17:22:25.4289369+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\cadre.jpg</Source>
@@ -259,13 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\cadre.xnb</Output>
       <Time>2014-04-18T16:42:32.585+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\cadre.xnb</Output>
-      <Time>2014-04-21T17:22:25.4069356+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\pacman_invincible.png</Source>
@@ -273,13 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman_invincible.xnb</Output>
       <Time>2014-04-18T16:42:32.61+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\pacman_invincible.xnb</Output>
-      <Time>2014-04-21T17:22:25.4299369+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\grossebouelette.png</Source>
@@ -287,13 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\grossebouelette.xnb</Output>
       <Time>2014-04-18T16:42:32.596+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\grossebouelette.xnb</Output>
-      <Time>2014-04-21T17:22:25.4169362+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\fantome_1.png</Source>
@@ -301,13 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_1.xnb</Output>
       <Time>2014-04-18T16:42:32.591+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_1.xnb</Output>
-      <Time>2014-04-21T17:22:25.4119359+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\fantome_2.png</Source>
@@ -315,13 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_2.xnb</Output>
       <Time>2014-04-18T16:42:32.593+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_2.xnb</Output>
-      <Time>2014-04-21T17:22:25.413936+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>Pacman\fantome_3.png</Source>
@@ -329,13 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_3.xnb</Output>
       <Time>2014-04-18T16:42:32.594+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\Pacman\fantome_3.xnb</Output>
-      <Time>2014-04-21T17:22:25.4159361+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>SpaceInvaders\maison.png</Source>
@@ -343,13 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\maison.xnb</Output>
       <Time>2014-04-21T15:14:11.715+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\maison.xnb</Output>
-      <Time>2014-04-21T17:22:25.4379374+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>SpaceInvaders\ennemi1.png</Source>
@@ -357,13 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi1.xnb</Output>
       <Time>2014-04-19T02:01:09.547+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi1.xnb</Output>
-      <Time>2014-04-21T17:22:25.4319371+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>SpaceInvaders\ennemi2.png</Source>
@@ -371,13 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi2.xnb</Output>
       <Time>2014-04-19T02:01:09.563+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi2.xnb</Output>
-      <Time>2014-04-21T17:22:25.4349372+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>SpaceInvaders\ennemi3.png</Source>
@@ -385,13 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi3.xnb</Output>
       <Time>2014-04-19T02:01:09.569+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\SpaceInvaders\ennemi3.xnb</Output>
-      <Time>2014-04-21T17:22:25.4359373+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>LangueFont.spritefont</Source>
@@ -399,13 +259,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\LangueFont.xnb</Output>
       <Time>2014-04-18T16:42:32.56+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\LangueFont.xnb</Output>
-      <Time>2014-04-21T17:22:25.360933+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <Item>
       <Source>MaPolice.spritefont</Source>
@@ -413,13 +268,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
       <Output>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\MaPolice.xnb</Output>
       <Time>2014-04-18T16:42:32.563+02:00</Time>
-=======
-      <Output>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\MaPolice.xnb</Output>
-      <Time>2014-04-21T17:22:25.3639332+02:00</Time>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -427,17 +277,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-<<<<<<< HEAD
       <RootDirectory>C:\Users\JERRY\SupArcadia\Arcadia\ArcadiaContent\</RootDirectory>
       <LoggerRootDirectory>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Users\JERRY\SupArcadia\Arcadia\ArcadiaContent\obj\x86\Debug\</IntermediateDirectory>
       <OutputDirectory>C:\Users\JERRY\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\</OutputDirectory>
-=======
-      <RootDirectory>C:\Users\Petit\SupArcadia\Arcadia\ArcadiaContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Petit\SupArcadia\Arcadia\ArcadiaContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Petit\SupArcadia\Arcadia\Arcadia\bin\x86\Debug\Content\</OutputDirectory>
->>>>>>> fad99535cdde31400284dc299d134c9865e621c8
     </Settings>
     <Assemblies>
       <Assembly>
@@ -466,7 +309,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-12-14T21:08:58.5918254+01:00</Value>
+        <Value>2014-01-19T16:58:30.5308208+01:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

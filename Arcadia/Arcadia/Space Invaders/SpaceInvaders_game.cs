@@ -22,10 +22,6 @@ namespace Arcadia.Space_Invaders
 
 
         double time;
-
-        
-
-        
         
 
         public virtual void Initialize(ContentManager content) 
